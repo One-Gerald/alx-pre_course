@@ -1,2 +1,1 @@
-“my second commit”
-Coolaboration: be up to date
+Collaboration: be up to date
